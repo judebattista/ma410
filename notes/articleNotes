@@ -1,0 +1,8 @@
+Communication problem
+    Memoryless channel, binary symmetric channel
+    Error rate p₀
+    Success rate 1 - p₀
+    Data rate R
+        If R = 1: 
+        Can set R = 1/n, repeat each transmission n times
+        
